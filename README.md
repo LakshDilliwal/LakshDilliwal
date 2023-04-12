@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laksh Dilliwal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJlN2M4ZDczYTUwZTM2OThhNjBlY2EwMWNmYTJlMWI4NjJjZjUwOSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshdilliwal" alt="lakshdilliwal" /></a> </p>
 
